@@ -2,7 +2,7 @@ package Constructores;
 
 public class Empleado {
 	
-	String nombre;
+	
 	int edad;
 	String categoria;
 	int antiguedad;
