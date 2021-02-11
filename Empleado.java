@@ -70,7 +70,4 @@ public class Empleado {
 		this.sexo = sexo;
 	}
 	
-	
-	
-
 }
